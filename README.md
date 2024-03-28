@@ -6,7 +6,7 @@ This project is a front-end clone of the Gemini app built using React.
 
 The Gemini App Front End Clone aims to replicate the user interface and some functionalities of the Gemini app using React framework. 
 
-
+The project is live at : https://google-geminibymanash.vercel.app/ 
 ## Installation
 
 1. Clone the repository:
